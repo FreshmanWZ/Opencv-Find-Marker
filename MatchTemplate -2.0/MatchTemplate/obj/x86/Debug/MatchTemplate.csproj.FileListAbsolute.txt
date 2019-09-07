@@ -1,0 +1,110 @@
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\MatchTemplate.exe.config
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\MatchTemplate.exe
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\MatchTemplate.pdb
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\Emgu.CV.UI.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\Emgu.CV.UI.GL.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\Emgu.CV.World.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\libzbar-cil.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\OpenTK.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\OpenTK.GLControl.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\ZedGraph.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\Emgu.CV.UI.xml
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\Emgu.CV.UI.GL.xml
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\Emgu.CV.World.xml
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\OpenTK.xml
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\OpenTK.GLControl.xml
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\ZedGraph.xml
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\de\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\es\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\fr\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\hu\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\it\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\ja\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\pt\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\ru\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\sk\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\sv\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\tr\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.BarCode.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.Form1.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.Form2.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.Properties.Resources.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.csproj.GenerateResource.Cache
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.csproj.CoreCompileInputs.cache
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.exe
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.pdb
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\zxing.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\zxing.presentation.dll
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\zxing.pdb
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\zxing.xml
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\zxing.presentation.pdb
+E:\C#项目\MatchTemplate\MatchTemplate\bin\x86\Debug\zxing.presentation.xml
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.csprojResolveAssemblyReference.cache
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.Find1DBarcode.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.AfterProcessImage.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.FindBlobForm.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.FormatImage.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.RegionList.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.Component1.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.ImageProcessForm.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.ThresholdParameterForm.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.ContoursForm.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate._2DTo3DForm.resources
+E:\C#项目\MatchTemplate\MatchTemplate\obj\x86\Debug\MatchTemplate.CameraPropertyForm.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\MatchTemplate.exe.config
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\MatchTemplate.exe
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\MatchTemplate.pdb
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\Emgu.CV.UI.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\Emgu.CV.UI.GL.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\Emgu.CV.World.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\libzbar-cil.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\OpenTK.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\OpenTK.GLControl.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\ZedGraph.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\zxing.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\zxing.presentation.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\Emgu.CV.UI.xml
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\Emgu.CV.UI.GL.xml
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\Emgu.CV.World.xml
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\OpenTK.xml
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\OpenTK.GLControl.xml
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\ZedGraph.xml
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\zxing.pdb
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\zxing.xml
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\zxing.presentation.pdb
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\zxing.presentation.xml
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\de\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\es\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\fr\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\hu\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\it\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\ja\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\pt\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\ru\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\sk\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\sv\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\tr\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.csprojResolveAssemblyReference.cache
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate._2DTo3DForm.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.AfterProcessImage.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.BarCode.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.CameraPropertyForm.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.Component1.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.ContoursForm.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.Find1DBarcode.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.FindBlobForm.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.Form1.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.Form2.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.FormatImage.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.ImageProcessForm.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.Properties.Resources.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.RegionList.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.ThresholdParameterForm.resources
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.csproj.GenerateResource.Cache
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.csproj.CoreCompileInputs.cache
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.exe
+E:\C#项目\MatchTemplate -2.0\MatchTemplate\obj\x86\Debug\MatchTemplate.pdb
